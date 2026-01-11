@@ -1,4 +1,4 @@
-# SMM4H-HeaRD-2026-Task-7-Reddit-Impacts2: Social and Clinical Impacts Span Detection
+# SMM4H-HeaRD @ ACL-2026 Shared Task 7: Social and Clinical Impacts Span Detection
 
 This repository focused on extracting self-reported clinical and social impacts of nonmedical opioid use from first-person social media text.
 
