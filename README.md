@@ -1,0 +1,1 @@
+# SMM4H-HeaRD-2026-Task-7-Reddit-Impacts2
