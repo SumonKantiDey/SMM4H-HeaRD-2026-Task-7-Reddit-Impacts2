@@ -90,7 +90,7 @@ This result highlights the challenge of accurately detecting informal and implic
 
 We provide a reference evaluation script below: 
 
-- **Script**: [`evaluation_script.py`](https://github.com/SumonKantiDey/Reddit_Impacts_NER/blob/main/src/evaluation.py)
+- `evaluation_script.py`
 
 ## Reference Paper
 
