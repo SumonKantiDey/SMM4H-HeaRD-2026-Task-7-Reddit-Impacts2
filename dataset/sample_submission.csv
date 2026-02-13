@@ -1,0 +1,11 @@
+ID,predicted_ner_tags
+dev_229,"['O', 'O', 'O', 'O', 'O', 'O', 'B-ClinicalImpacts', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_162,"['O', 'O', 'O', 'O', 'O', 'O', 'B-ClinicalImpacts', 'O', 'O', 'O']"
+dev_184,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_65,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-SocialImpacts', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_198,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_146,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_177,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_190,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-SocialImpacts', 'I-SocialImpacts', 'I-SocialImpacts', 'I-SocialImpacts', 'O', 'O', 'O', 'B-SocialImpacts', 'I-SocialImpacts', 'O', 'O', 'O', 'B-SocialImpacts', 'I-SocialImpacts', 'O', 'B-ClinicalImpacts', 'I-ClinicalImpacts', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_78,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']"
+dev_106,"['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'B-ClinicalImpacts', 'I-ClinicalImpacts', 'O', 'O', 'B-ClinicalImpacts', 'I-ClinicalImpacts', 'O', 'O', 'O']"
